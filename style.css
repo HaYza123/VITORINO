@@ -1,0 +1,9 @@
+h1 {
+    color: #993399 ;
+    text-align: center;
+}
+button {
+    color: #993399 ;
+    margin: 0 5px;
+    display: inline-block;
+}
